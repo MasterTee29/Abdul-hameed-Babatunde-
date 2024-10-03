@@ -18,3 +18,7 @@ Unit testing: Testing individual components or modules of software.  Unit testin
 Integration testing: Testing interactions between different components or subsystems.  Integration testing ensures that interactions between integrated components are functioning correctly and that data communication between different units is handled properly.
 System testing: Testing the entire software system as a whole.   System testing validates the entire system against the functional and non-functional requirements. It tests end-to-end scenarios, user interactions, and ensures that the software performs as expected in different environments.
 Acceptance testing: Testing the software against user requirements to ensure it meets user needs.   Acceptance testing involves stakeholders (end-users, customers, or clients) testing the software in a realistic environment to confirm that it meets their expectations and is ready for deployment.
+
+Prompt engineering is all about crafting questions or statements to get the best possible responses from AI models.   Imagine asking a vague question and getting a confusing answer. Prompt engineering helps avoid that by making your questions clear and specific, so the AI understands exactly what you need.
+
+Example of a prompt:  If you ask AI, 'Tell me about cats,' the AI might give a general answer. But if you ask, 'Tell me about the history of domestic cats,' you'll get a more focused response. This response is more effective because the AI will return a clear and specific response.
